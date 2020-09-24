@@ -1,0 +1,14 @@
+1-Compile iext.dll dll
+2-add resource to iext.dll using resource hacker(resource:context_handle.htm)
+3-copy iext.dll and bdd.mdb to C:\
+4-run install.bat(registering iext.dll)
+
+
+working:
+
+1-double click ane word from internet explorer
+2-right click selected word and select your new menu
+3-look at title bar
+
+
+Note:bdd.mdb supports begin with a
